@@ -1,0 +1,2 @@
+import palindrome
+palindrome.Palindrome()
